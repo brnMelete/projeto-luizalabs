@@ -22,7 +22,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 🎲 Rodando o Backend (servidor)
 
 # Clone este repositório
-$ git 
+$ git https://github.com/brnMelete/projeto-luizalabs.git
 
 # Acesse a pasta do projeto no terminal/cmd
 $ cd README-projeto-luizalabs
